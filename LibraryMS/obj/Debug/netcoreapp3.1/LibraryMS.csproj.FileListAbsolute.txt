@@ -1,0 +1,13 @@
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\bin\Debug\netcoreapp3.1\LibraryMS.exe
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\bin\Debug\netcoreapp3.1\LibraryMS.deps.json
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\bin\Debug\netcoreapp3.1\LibraryMS.runtimeconfig.json
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\bin\Debug\netcoreapp3.1\LibraryMS.runtimeconfig.dev.json
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\bin\Debug\netcoreapp3.1\LibraryMS.dll
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\bin\Debug\netcoreapp3.1\LibraryMS.pdb
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\obj\Debug\netcoreapp3.1\LibraryMS.csprojAssemblyReference.cache
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\obj\Debug\netcoreapp3.1\LibraryMS.AssemblyInfoInputs.cache
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\obj\Debug\netcoreapp3.1\LibraryMS.AssemblyInfo.cs
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\obj\Debug\netcoreapp3.1\LibraryMS.csproj.CoreCompileInputs.cache
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\obj\Debug\netcoreapp3.1\LibraryMS.dll
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\obj\Debug\netcoreapp3.1\LibraryMS.pdb
+D:\CDI\Course 4 - Programming Fundamentals\Learning Guide Exercises\LibraryMS\obj\Debug\netcoreapp3.1\LibraryMS.genruntimeconfig.cache
